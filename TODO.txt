@@ -12,3 +12,5 @@ Rouge sur fond vert
 Titre de l'application :
 Resaspi
 
+Technologies de l'application :
+JSF
