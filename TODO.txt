@@ -14,3 +14,5 @@ Resaspi
 
 Technologies de l'application :
 JSF
+
+Spring
